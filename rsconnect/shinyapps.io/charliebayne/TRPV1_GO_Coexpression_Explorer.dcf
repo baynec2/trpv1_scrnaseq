@@ -1,0 +1,13 @@
+name: TRPV1_GO_Coexpression_Explorer
+title: TRPV1_GO_Coexpression_Explorer
+username:
+account: charliebayne
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7924493
+bundleId: 6667171
+url: https://charliebayne.shinyapps.io/TRPV1_GO_Coexpression_Explorer/
+when: 1671786853.02141
+lastSyncTime: 1671786853.02144
+asMultiple: FALSE
+asStatic: FALSE
